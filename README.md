@@ -1,2 +1,6 @@
 # sonitrade.com
-Cross-sector business value trades
+Official site for Sonitrade. 
+
+We identify and trade value across business domains.
+
+Contact: hello@sonitrade.com
